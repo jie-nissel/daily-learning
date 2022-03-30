@@ -1,0 +1,4 @@
+#python version 3.8.5 64-bit
+pyaudio==0.2.11
+speech_recognition==3.8.1
+chatterbot==0.8.7
